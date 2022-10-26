@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\mypc\\personal\\repos\\dotnet\\RohiniTestSampleApp01\\RohiniTestSampleApp01.csproj": {}
+  },
+  "projects": {
+    "C:\\mypc\\personal\\repos\\dotnet\\RohiniTestSampleApp01\\RohiniTestSampleApp01.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\mypc\\personal\\repos\\dotnet\\RohiniTestSampleApp01\\RohiniTestSampleApp01.csproj",
+        "projectName": "RohiniTestSampleApp01",
+        "projectPath": "C:\\mypc\\personal\\repos\\dotnet\\RohiniTestSampleApp01\\RohiniTestSampleApp01.csproj",
+        "packagesPath": "C:\\Users\\kiran_darshanam\\.nuget\\packages\\",
+        "outputPath": "C:\\mypc\\personal\\repos\\dotnet\\RohiniTestSampleApp01\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kiran_darshanam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://dcsartifacts.dell.com/artifactory/api/nuget/nuget": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
