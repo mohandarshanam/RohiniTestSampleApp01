@@ -1,0 +1,7 @@
+C:\mypc\personal\repos\dotnet\RohiniTestSampleApp01\obj\Release\net6.0\PubTmp\Out\RohiniTestSampleApp01.exe
+C:\mypc\personal\repos\dotnet\RohiniTestSampleApp01\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\mypc\personal\repos\dotnet\RohiniTestSampleApp01\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\mypc\personal\repos\dotnet\RohiniTestSampleApp01\obj\Release\net6.0\PubTmp\Out\RohiniTestSampleApp01.dll
+C:\mypc\personal\repos\dotnet\RohiniTestSampleApp01\obj\Release\net6.0\PubTmp\Out\RohiniTestSampleApp01.deps.json
+C:\mypc\personal\repos\dotnet\RohiniTestSampleApp01\obj\Release\net6.0\PubTmp\Out\RohiniTestSampleApp01.runtimeconfig.json
+C:\mypc\personal\repos\dotnet\RohiniTestSampleApp01\obj\Release\net6.0\PubTmp\Out\RohiniTestSampleApp01.pdb
